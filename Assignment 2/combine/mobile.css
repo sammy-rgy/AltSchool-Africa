@@ -1,0 +1,42 @@
+body {
+    font-family: 'Lato', sans-serif;
+    background: #FFFFFF;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 375px;
+    margin: auto;
+}
+
+header {
+    border-bottom: 4px solid #999999;
+    padding: 8px 12px;
+}
+
+h1 {
+    font-size: 22px;
+    font-weight: 800;
+}
+
+.highlight {
+    color: #339966;
+}
+
+.card {
+    margin: 10px auto;
+    background: #FFFFFF;
+    padding: 10px;
+    border-bottom: 4px solid #999999;
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.banner {
+    background: #FFBF00;
+    padding: 5px 10px;
+    font-weight: 800;
+    font-size: 16px;
+    color: #000000;
+    margin-bottom: 10px;
+}
